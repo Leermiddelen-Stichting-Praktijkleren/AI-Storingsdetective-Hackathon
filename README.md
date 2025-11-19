@@ -1,6 +1,6 @@
 # AI-Storingsdetective
 
-Uitkomsten Hackaton 6 november 2025
+Uitkomsten Stichting Praktijkleren Hackaton 6 november 2025
 
 Challenge: Bouw een praktisch leermiddel waarin studenten leren om met AI storingen in bijvoorbeeld netwerken, systemen of hardware te detecteren, te lokaliseren en op te lossen.
 
