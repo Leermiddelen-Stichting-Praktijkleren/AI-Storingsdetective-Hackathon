@@ -16,6 +16,7 @@ In de map [Groep_3](https://github.com/Leermiddelen-Stichting-Praktijkleren/AI-S
 
 In de map https://github.com/Leermiddelen-Stichting-Praktijkleren/AI-Storingsdetective/tree/main/Group_4 vind je een lessenserie die gemaakt is om via AI geautomatiseerd storingen te detecteren op basis van logbestanden. Kijk [hier](https://chatgpt.com/share/690c6fa8-0ea4-8008-b3a9-8b63f659ea05) voor opzet en onderbouwing.
 
+De opbrengsten van groep 1 en groep 2 (software development) vind je hier: https://github.com/Leermiddelen-Stichting-Praktijkleren/LocalLLM-Hackathon
 
 Dit lesmateriaal is ontwikkeld tijdens de hackathon op 6 november 2025, waar vier enthousiaste teams van docenten met AI-toepassingen aan de slag gingen om nieuwe onderwijsproducten te creëren. De resultaten van deze hackathon stellen we hier via GitHub (open source) beschikbaar zodat ICT-docenten direct toegang hebben tot alle materialen, voorbeelden en uitwerkingen.
 Hiermee kunnen docenten de materialen eenvoudig downloaden, aanpassen en verder ontwikkelen, samenwerken aan verbeteringen en profiteren van actuele versies die door de community worden bijgewerkt. Hierdoor ontstaat een open en groeiende kennisbron die aansluit bij de praktijk van ICT-onderwijs.
